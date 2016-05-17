@@ -1,0 +1,12 @@
+body {
+  background: #300;
+  font-size: 16px; }
+
+/*     */
+.navbar-brand {
+  background: #300; }
+  .navbar-brand > img {
+    width: 2rem;
+    height: auto; }
+
+/*# sourceMappingURL=main.css.map */
